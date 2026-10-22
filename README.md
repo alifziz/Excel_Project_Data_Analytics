@@ -38,7 +38,7 @@ It includes detailed information on:
 - ** Locations**
 - ** Skills**
 
-## Do more skills get job seekers better pay?
+## 1. Do more skills get job seekers better pay?
 
 ### Skill: Power Query (ETL)
 
@@ -87,7 +87,7 @@ more specialized skill sets dominate higher market value.
 - This trend emphasizes the value of acquiring multiple relevant skills, particularly for individuals 
 aiming for higher-paying roles.
 
-## What’s the salary for data jobs in different regions?
+## 2. What’s the salary for data jobs in different regions?
 
 ### Skills: PivotTables & DAX
 
@@ -126,7 +126,7 @@ might be influenced by the concentration of tech industries in the US.
 - These salary insights are important for planning and salary negotiations, helping professionals and 
 companies align their offers with market standards while considering geographical variations.
 
-## What are the top skills of data professionals?
+## 3. What are the top skills of data professionals?
 
 ### Skill: Power Pivot
 
@@ -164,7 +164,7 @@ shift towards cloud services and big data technologies.
 - Understanding prevalent skills in the industry not only helps professionals stay competitive but also 
 guides training and educational programs to focus on the most impactful technologies.
 
-## What’s the pay of the top 10 skills?
+## 4. What’s the pay of the top 10 skills?
 
 ### Skill: Advanced Charts (Pivot Chart)
 
