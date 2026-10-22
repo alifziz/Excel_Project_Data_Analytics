@@ -3,7 +3,7 @@ Project showcasing Excel skills
 
 ## Introduction
 
-Job seeksers such as myself struggle with the lack of organized data to explore the most optimal jobs 
+Job seekers such as myself struggle with the lack of organized data to explore the most optimal jobs 
 and skills in the data job market. I explore to understand what skills top employers request in their job
 postings.
 
